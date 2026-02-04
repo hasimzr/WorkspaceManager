@@ -9,7 +9,7 @@
 **Güçlü, Renkli ve Hızlı Workspace Yöneticisi**
 
 <p align="center">
-  <img src="demo.gif" alt="Workspace Manager Demo" width="600">
+  <img src="DEMO.gif" alt="Workspace Manager Demo" width="600">
 </p>
 
 Geliştiriciler için tasarlanan **WorkspaceManager**, terminalinizi terk etmeden tüm projelerinizi ve alt çalışma alanlarını (frontend, backend, mobil vb.) tek merkezden yönetmenizi sağlar.
